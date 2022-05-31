@@ -1,0 +1,11 @@
+# Requirements for the whole project.
+# The versions are exactly specified for reproducibility although newer or older versions might work as well.
+
+numpy==1.21.3
+opencv-python==4.5.4.58
+torch==1.7.1
+torchvision==0.8.2
+Pillow==8.4.0
+scipy==1.7.1
+matplotlib==3.4.3
+tensorboard==2.7.0
