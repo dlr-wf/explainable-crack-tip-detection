@@ -15,6 +15,30 @@ authors:
   orcid: "https://orcid.org/0000-0002-3479-9143"
 title: "Explainable machine learning for precise fatigue crack tip detection"
 version: 1.0.0
-doi: 10.5281/zenodo.1234
+# doi: 10.5281/zenodo.1234
 date-released: 2022-06-01
 url: "https://github.com/melc-da/explainable-crack-tip-detection"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Melching"
+    given-names: "David"
+    orcid: "https://orcid.org/0000-0001-5111-6511"
+  - family-names: "Strohmann"
+    given-names: "Tobias"
+    orcid: "https://orcid.org/0000-0002-9277-1376"
+  - family-names: "Requena"
+    given-names: "Guillermo"
+    orcid: "https://orcid.org/0000-0001-5682-1404"
+  - family-names: "Breitbarth"
+    given-names: "Eric"
+    orcid: "https://orcid.org/0000-0002-3479-9143"
+  doi: "10.1038/s41598-022-13275-1"
+  journal: "Scientific Reports"
+  # month: 9
+  # start: 1 # First page number
+  # end: 10 # Last page number
+  title: "Explainable machine learning for precise fatigue crack tip detection"
+  # issue: 1
+  # volume: 1
+  year: 2022
