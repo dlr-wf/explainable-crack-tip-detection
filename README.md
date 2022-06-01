@@ -1,4 +1,4 @@
-# Explainable Crack Tip Detection
+# Explainable machine learning for precise fatigue crack tip detection
 
 This repository contains the code used to generate the results of the research article
 ```
