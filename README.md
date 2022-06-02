@@ -1,4 +1,5 @@
 # Explainable machine learning for precise fatigue crack tip detection
+[![DOI](https://zenodo.org/badge/499013011.svg)](https://zenodo.org/badge/latestdoi/499013011)
 
 This repository contains the code used to generate the results of the research article
 ```
