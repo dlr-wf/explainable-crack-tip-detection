@@ -10,6 +10,9 @@ DOI: 10.1038/s41598-022-13275-1
 ```
 The article is open-access and available [here](https://doi.org/10.1038/s41598-022-13275-1).
 
+## Abstract
+*Data-driven models based on deep learning have led to tremendous breakthroughs in classical computer vision tasks and have recently made their way into natural sciences. However, the absence of domain knowledge in their inherent design significantly hinders the understanding and acceptance of these models. Nevertheless, explainability is crucial to justify the use of deep learning tools in safety-relevant applications such as aircraft component design, service and inspection. In this work, we train convolutional neural networks for crack tip detection in fatigue crack growth experiments using full-field displacement data obtained by digital image correlation. For this, we introduce the novel architecture ParallelNets – a network which combines segmentation and regression of the crack tip coordinates – and compare it with a classical U-Net-based architecture. Aiming for explainability, we use the Grad-CAM interpretability method to visualize the neural attention of several models. Attention heatmaps show that ParallelNets is able to focus on physically relevant areas like the crack tip field, which explains its superior performance in terms of accuracy, robustness, and stability.*
+
 ## Dependencies
 *  [Python 3.8.5](https://www.python.org/downloads/release/python-385/)
 
