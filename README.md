@@ -31,7 +31,7 @@ In order to run the scripts, nodal displacement data of the fatigue crack propag
 S<sub>950,1.6</sub> and S<sub>160,2.0</sub> as well as the *nodemap* and ground truth data
 of S<sub>160,4.7</sub> is needed. 
 The data is available on [Zenodo](https://zenodo.org) 
-under the DOI [10.5281/zenodo.5740216](https://zenodo.org/deposit/5740216). 
+under the DOI [10.5281/zenodo.5740216](https://zenodo.org/record/5740216). 
 
 The data needs to be downloaded and placed in a folder `data`.
 
